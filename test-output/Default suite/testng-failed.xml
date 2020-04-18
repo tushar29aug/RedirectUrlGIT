@@ -7,6 +7,7 @@
         <methods>
           <include name="setUp"/>
           <include name="checkRedirect" invocation-numbers="3 5"/>
+          <include name="tearDown"/>
         </methods>
       </class> <!-- com.orangetheory.testcases.RedirectCheck -->
     </classes>
